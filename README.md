@@ -8,3 +8,6 @@ My data science and analytics projects
  3. R programming - Pao Ying Chub
  4. Looker Dashboard
  5. Linear Regeression Model using caret
+
+## Contact Me
+reach out to me at chaleevong.work@gmail.com
